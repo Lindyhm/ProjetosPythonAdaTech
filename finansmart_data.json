@@ -1,0 +1,68 @@
+{
+    "registros": [
+        {
+            "id": 1,
+            "date": "2024-01-24",
+            "type": "200",
+            "value": 300.0,
+            "interest_rate": null,
+            "original_value": null
+        },
+        {
+            "id": 2,
+            "date": "2024-01-24",
+            "type": "investimento",
+            "value": 500.0,
+            "interest_rate": 10.0,
+            "original_value": 500.0
+        },
+        {
+            "id": 3,
+            "date": "2024-01-24",
+            "type": "despesa",
+            "value": -200.0,
+            "interest_rate": null,
+            "original_value": null
+        },
+        {
+            "id": 4,
+            "date": "2024-01-24",
+            "type": "receita",
+            "value": 200.0,
+            "interest_rate": null,
+            "original_value": null
+        },
+        {
+            "id": 5,
+            "date": "2024-01-24",
+            "type": "receita",
+            "value": 200.0,
+            "interest_rate": null,
+            "original_value": null
+        },
+        {
+            "id": 6,
+            "date": "2024-01-24",
+            "type": null,
+            "value": null,
+            "interest_rate": null,
+            "original_value": null
+        },
+        {
+            "id": 7,
+            "date": "2024-01-25",
+            "type": "receita",
+            "value": 10000.0,
+            "interest_rate": null,
+            "original_value": null
+        },
+        {
+            "id": 8,
+            "date": "2024-01-25",
+            "type": "despesas",
+            "value": 1000.0,
+            "interest_rate": null,
+            "original_value": null
+        }
+    ]
+}
